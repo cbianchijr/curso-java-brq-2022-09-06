@@ -1,9 +1,12 @@
 arquivo-editado para teste no git
 
+<<<<<<< HEAD
 alterado de novo 
 
 modificacao de outro devgit
 
+=======
 alterado de novo
 
 alterado no servidor
+>>>>>>> 4064590693b4c0b33fa3c57280eed5e5e726e7e9
