@@ -10,3 +10,5 @@ alterado de novo
 
 alterado no servidor
 >>>>>>> 4064590693b4c0b33fa3c57280eed5e5e726e7e9
+
+alterando arquivo teste.txt (hoje - 08/09/22)
